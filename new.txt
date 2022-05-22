@@ -1,5 +1,0 @@
-line 1
-a second line
-fuck you
-i want to update newfile.txt
-learning git and github
